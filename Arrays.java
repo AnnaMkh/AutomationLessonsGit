@@ -34,5 +34,5 @@ public class Arrays {
         int[] additives = new int[3];
         int sum = new Scanner(System.in).nextInt();
         int additive0, additive1, additive2, additive3;
-    } //
+    } ////
 }
